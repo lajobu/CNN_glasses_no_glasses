@@ -2,7 +2,8 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
 
-The purpose of this project is to create a `Machine Learning model` which will be able to `classify` different kind of images in two groups, `glasss` and `no glasses`. In this model it would be applied a pretrained model `MobileNet V2`, developed by google, and it will be applied `fine-tuning` with the weight of the pretrained model.
+The purpose of this project is to create a `Machine Learning model` which will be able to `classify` different kind of images in two groups, `glasss` and `no glasses`. 
+In this model it would be applied a pretrained model `MobileNet V2`, developed by google, and it will be applied `fine-tuning` with the weight of the pretrained model.
 
 The model is based on `Tensorflow/Learn/Tutorials/Images/Transfer learning and fine-tuning` - https://www.tensorflow.org/tutorials¶
 

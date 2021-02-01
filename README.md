@@ -33,10 +33,6 @@ The model is based on `Tensorflow/Learn/Tutorials/Images/Transfer learning and f
 
 ## Results:
 
-- Base model:
-
-![alt text](https://github.com/lajobu/CNN_glasses_no_glasses/blob/main/Figures/res_model_no_tun.png)
-
 - Application of fine tuning:
 
 ![alt text](https://github.com/lajobu/CNN_glasses_no_glasses/blob/main/Figures/res_model_fine.jpg)

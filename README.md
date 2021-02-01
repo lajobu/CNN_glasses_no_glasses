@@ -6,7 +6,7 @@ The purpose of this project is to create a `Machine Learning model` which will b
 
 The model is based on `Tensorflow/Learn/Tutorials/Images/Transfer learning and fine-tuning` - https://www.tensorflow.org/tutorials¶
 
-[![Kaggle](https://www.kaggle.com/jorgebuenoperez/computer-vision-application-of-cnn)
+[![Kaggle](https://seeklogo.com/images/K/kaggle-logo-83322F52DE-seeklogo.com.png)](https://www.kaggle.com/jorgebuenoperez/computer-vision-application-of-cnn)
 
 ## Technical details about thje project:
 

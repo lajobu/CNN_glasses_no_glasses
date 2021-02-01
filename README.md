@@ -24,15 +24,19 @@ The model is based on `Tensorflow/Learn/Tutorials/Images/Transfer learning and f
 ## Some figures:
 
 - Some images from the train sample:
+
 ![alt text](https://github.com/lajobu/CNN_glasses_no_glasses/blob/main/Figures/5.train_images.png)
 
 - Example of data augmentation:
+
 ![alt text](https://github.com/lajobu/CNN_glasses_no_glasses/blob/main/Figures/6.augmen_images.png)
 
 ## Results:
 
 - Base model:
+
 ![alt text](https://github.com/lajobu/CNN_glasses_no_glasses/blob/main/Figures/res_model_no_tun.png)
 
 - Application of fine tuning:
+
 ![alt text](https://github.com/lajobu/CNN_glasses_no_glasses/blob/main/Figures/res_model_fine.jpg)

@@ -1,4 +1,4 @@
-# CNN_glasses_no_glasses
+# Computer vision - Glasses or no glasses
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
 

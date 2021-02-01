@@ -33,6 +33,6 @@ The model is based on `Tensorflow/Learn/Tutorials/Images/Transfer learning and f
 
 ## Results:
 
-- Application of fine tuning:
+- Application of fine tuning (after the green line):
 
 ![alt text](https://github.com/lajobu/CNN_glasses_no_glasses/blob/main/Figures/res_model_fine.jpg)
